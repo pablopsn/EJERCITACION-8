@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://images4.alphacoders.com/989/989982.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-image: url(https://wallpaperaccess.com/full/1386930.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    border-style: solid;
+    border-color: rgb(12, 12, 82);
+    border-width: 10px;
+    margin: 2% 15% 5% 15%;
+    text-align: center;
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#Texto1 {
+    width: 370px;
+    float: left;
+    font-family: Verdana;
+    font-weight: bolder;
+    color: yellow;
+    font-size: 30px;
+    background: none;
+
+}
+
+#p_texto1 {
+    text-align: right;
+    font-weight: bolder;
+    font-size: 40px;
+    color: yellow;
+    margin: 70px 40px 100px 100px;
+    background: none;
+}
+
+.imagenes {
+    position: absolute;
+    margin-left: 64%;
+    background: none;
+}
+
+
+#separacion {
+    clear: both;
+    background: none;
+}
+
+#texto2 ul {
+    width: 75%;
+    float: left;
+    margin-left: 230px;
+    font-size: 40px;
+    color: yellow;
+    text-align: justify;
+    text-decoration: overline;
+    background: none;
+}
+
+#texto2 ul li {
+    width: 75%;
+    float: left;
+    margin-left: 230px;
+    font-size: 40px;
+    color: yellow;
+    text-align: justify;
+    background: none;
+}
+
+#p_texto2 {
+    width: 75%;
+    float: left;
+    margin-left: 230px;
+    font-size: 40px;
+    color: yellow;
+    text-align: justify;
+    background: none;
+    text-decoration: overline;
+}
+
+#imagen2 {
+    position: absolute;
+    width: 10px;
+    margin: 380px 40px 100px 100px;
+    background: none;
+}
